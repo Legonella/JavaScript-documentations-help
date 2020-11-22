@@ -123,3 +123,21 @@ function min(a, b) {
 		return b;
 	}
 }
+function nummme(a, s) {
+	if (a < b) {
+		return a;
+	} else {
+		return s;
+	}
+}
+
+const person = {
+	firstName: "Andrey",
+	age: "18",
+	year: "2002",
+	lenguages: ["English", "Russian", "Polish", "Ukranian"],
+	hasWife: false,
+	greet: function() {
+		console.log("greet");
+	}
+};
